@@ -34,5 +34,3 @@ function onGetFormData() {
     feedbackForm.message.value = saveData.message;
   }
 }
-
-console.log();
