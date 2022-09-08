@@ -28,5 +28,3 @@ player
         break;
     }
   });
-
-console.log();
